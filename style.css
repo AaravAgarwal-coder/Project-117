@@ -1,0 +1,36 @@
+body 
+{
+    background-color: lightgreen;
+}
+
+h1
+{
+    background-color: peachpuff;
+    color: blue;
+    font-weight: bold;
+}
+
+h4 {
+
+}
+
+#score 
+{
+    float: left;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+#timer 
+{
+    float: right;
+    font-weight: bold;
+    font-size:  35px;
+}
+
+p
+{
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
